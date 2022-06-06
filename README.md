@@ -1,16 +1,20 @@
-# music_player_final
+# Music Player App
 
-A new Flutter project.
+This is a music player app where i can use audioplayer to play a song
 
-## Getting Started
+## Packages being used 
 
-This project is a starting point for a Flutter application.
+- Audioplayers for adding and playing songs.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots from the application
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Media Player Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MusicPlayer Screen](https://user-images.githubusercontent.com/33814608/172229143-9b8f5394-1c1e-43da-9142-c1b354e0671d.png)
+
+## What is next ?
+- This will be upgraded to fetch songs from Firebase and have different users , each one can add favorite songs to different playlists
+
+
+
+
